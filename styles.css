@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgba(125, 188, 192, 0.493);
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.title{
+    margin: auto;
+    background-color: lightpink;
+    border-radius: 30px;
+    display: inline-block;
+}
